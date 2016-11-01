@@ -1,0 +1,14 @@
+{
+  "name": "Proyecto 1",
+  "homepage": "https://github.com/LeusCore/Leus",
+  "authors": [
+    "LeusCore"
+  ],
+  "description": "Mi Primera Web",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
